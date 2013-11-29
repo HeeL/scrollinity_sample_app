@@ -1,0 +1,7 @@
+<h1>Page#<%=params[:page]%></h1>
+
+<%= render partial: 'lorem_ipsum' %>
+
+<%if params[:page] == '4'%>
+  <h1>The End</h1>
+<%end%>

@@ -1,0 +1,3 @@
+This is a sample application for a scrollinity gem https://github.com/HeeL/scrollinity
+
+Here you can learn how to use the scrollinity gem for creating infinite scroll on your website. 
